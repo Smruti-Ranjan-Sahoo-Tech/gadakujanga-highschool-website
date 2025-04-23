@@ -1,5 +1,11 @@
- 
+This project is licensed under the MIT License.
 
----
+You are free to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, subject to the following conditions:
 
-Let me know if you'd like a `README.md` file directly generated for download, or if you'd like me to help write the `index.html` or database structure details for the repo too.
+Proper credit must be given to the original author.
+
+A copy of the license must be included in all copies or substantial portions of the Software.
+
+See the LICENSE file for full license details.
+
+
