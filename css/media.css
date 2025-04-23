@@ -1,0 +1,46 @@
+
+@media only screen and (max-width:768px) {
+    
+  
+    .scroll-content {
+      font-size: 14px;
+      /* Adjust font size for smaller screens */
+    }
+  
+    @keyframes scroll-left {
+      0% {
+        transform: translateX(60%);
+        /* Start off-screen on the right */
+      }
+  
+      100% {
+        transform: translateX(-100%);
+        /* End off-screen on the left */
+      }
+    }
+    }
+    @media only screen and (max-width:992px){
+      nav a{
+        color:black !important
+      }
+      nav .navbar-brand {
+        color: white !important;
+        font-weight: bold;
+        font-size :15px  ;
+      } 
+      .dropdown-menu{
+        background-color:aliceblue !important ;
+    }
+    .dropdown-item:focus, .dropdown-item:hover{
+        background-color:aliceblue !important ;
+    
+    }
+    .dropdown-menu li a{
+        color: rgb(0, 0, 0) !important;
+    }
+    .dropdown-menu li a:hover{
+        border: 2px solid rgb(14, 248, 72);
+        border-radius: 5px 5px 5px 5px;
+    }
+    
+    }
