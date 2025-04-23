@@ -28,7 +28,7 @@ This is the official website of **Gadakujanga High School**, developed as part o
 
 ## 📸 Screenshots
 
-![Gadakujanga High School Website Screenshot]([https://user-images.githubusercontent.com/your-username/your-repo-name/assets/620d13f6-5895-417f-bbd5-c8ba8656a210.png](https://github.com/Smruti-Ranjan-Sahoo-Tech/gadakujanga-highschool-website/blob/cd3231360d18030d81c89435d0b8326fb5fe36e8/screencapture-gadakujangahighschool-in-2025-04-23-14_58_48%20(1).png))
+![Gadakujanga High School Website Screenshot](https://raw.githubusercontent.com/Smruti-Ranjan-Sahoo-Tech/gadakujanga-highschool-website/cd3231360d18030d81c89435d0b8326fb5fe36e8/screencapture-gadakujangahighschool-in-2025-04-23-14_58_48%20(1).png)
 
 ---
 
